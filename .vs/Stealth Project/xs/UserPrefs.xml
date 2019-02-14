@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8CFF9658-BE88-C800-FD30-4BEDAB28B436}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/exitDoor.cs">
+    <Files>
+      <File FileName="Assets/Script/AlermLight.cs" Line="62" Column="43" />
+      <File FileName="Assets/Script/GameController.cs" Line="24" Column="6" />
+      <File FileName="Assets/Script/CCTVCam.cs" Line="15" Column="1" />
+      <File FileName="Assets/Script/Tags.cs" Line="11" Column="30" />
+      <File FileName="Assets/Script/Laser.cs" Line="56" Column="1" />
+      <File FileName="Assets/Script/Player.cs" Line="53" Column="51" />
+      <File FileName="Assets/Script/Door.cs" Line="39" Column="6" />
+      <File FileName="Assets/Script/exitDoor.cs" Line="37" Column="30" />
+      <File FileName="Assets/Script/keyCard.cs" Line="16" Column="1" />
+      <File FileName="Assets/Script/SwitchUnit.cs" Line="51" Column="10" />
+      <File FileName="Assets/Script/Enemy.cs" Line="23" Column="51" />
+      <File FileName="Assets/Script/EnemyMove.cs" Line="69" Column="29" />
+      <File FileName="Assets/Script/EnemyAnimation.cs" Line="78" Column="60" />
+      <File FileName="Assets/Script/MainCamera.cs" Line="47" Column="18" />
+      <File FileName="Assets/Script/PlayerHealth.cs" Line="31" Column="9" />
+      <File FileName="Assets/Script/EnemyShoot.cs" Line="40" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
